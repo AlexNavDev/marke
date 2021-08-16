@@ -1,0 +1,51 @@
+[
+        {   
+            "id": 1,
+            "nombre": "Branding",
+            "informacion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia debitis incidunt nesciunt ratione recusandae facilis enim, dolorem dolor fugit aperiam accusamus a optio voluptatecumque? Eius minus velit eveniet. Esse! Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores nam, voluptates architecto recusandae repudiandae, facilis numquam eius odit unde dignissimos illo pariatur. Totam magnam aspernatur fuga nam beatae quam ipsam Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia debitis incidunt nesciunt ratione recusandae facilis enim, dolorem dolor fugit aperiam accusamus a optio voluptatecumque? Eius minus velit eveniet. Esse! Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores nam, voluptates architecto recusandae repudiandae, facilis numquam eius odit unde dignissimos illo pariatur. Totam magnam aspernatur fuga nam beatae quam ipsam",
+            "icono": "img/iconos/branding.svg"
+        },
+        {   
+            "id": 2,
+            "nombre": "Convenciones",
+            "informacion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia debitis incidunt nesciunt ratione recusandae facilis enim, dolorem dolor fugit aperiam accusamus a optio voluptatecumque? Eius minus velit eveniet. Esse! Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores nam, voluptates architecto recusandae repudiandae, facilis numquam eius odit unde dignissimos illo pariatur. Totam magnam aspernatur fuga nam beatae quam ipsam",
+            "icono": "img/iconos/convenciones.svg"
+        },
+        {   
+            "id": 3,
+            "nombre": "Diseño Gráfico",
+            "informacion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia debitis incidunt nesciunt ratione recusandae facilis enim, dolorem dolor fugit aperiam accusamus a optio voluptatecumque? Eius minus velit eveniet. Esse! Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores nam, voluptates architecto recusandae repudiandae, facilis numquam eius odit unde dignissimos illo pariatur. Totam magnam aspernatur fuga nam beatae quam ipsam",
+            "icono": "img/iconos/diseño.svg"
+        },
+        {   
+            "id": 4,
+            "nombre": "Diseño Web",
+            "informacion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia debitis incidunt nesciunt ratione recusandae facilis enim, dolorem dolor fugit aperiam accusamus a optio voluptatecumque? Eius minus velit eveniet. Esse! Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores nam, voluptates architecto recusandae repudiandae, facilis numquam eius odit unde dignissimos illo pariatur. Totam magnam aspernatur fuga nam beatae quam ipsam",
+            "icono": "img/iconos/web.svg"
+        },
+        {   
+            "id": 5,
+            "nombre": "Patente",
+            "informacion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia debitis incidunt nesciunt ratione recusandae facilis enim, dolorem dolor fugit aperiam accusamus a optio voluptatecumque? Eius minus velit eveniet. Esse! Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores nam, voluptates architecto recusandae repudiandae, facilis numquam eius odit unde dignissimos illo pariatur. Totam magnam aspernatur fuga nam beatae quam ipsam",
+            "icono": "img/iconos/patente.svg"
+        },
+        {   
+            "id": 6,
+            "nombre": "Marketing",
+            "informacion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia debitis incidunt nesciunt ratione recusandae facilis enim, dolorem dolor fugit aperiam accusamus a optio voluptatecumque? Eius minus velit eveniet. Esse! Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores nam, voluptates architecto recusandae repudiandae, facilis numquam eius odit unde dignissimos illo pariatur. Totam magnam aspernatur fuga nam beatae quam ipsam",
+            "icono": "img/iconos/marketing.svg"
+        },
+        {   
+            "id": 7,
+            "nombre": "SEO",
+            "informacion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia debitis incidunt nesciunt ratione recusandae facilis enim, dolorem dolor fugit aperiam accusamus a optio voluptatecumque? Eius minus velit eveniet. Esse! Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores nam, voluptates architecto recusandae repudiandae, facilis numquam eius odit unde dignissimos illo pariatur. Totam magnam aspernatur fuga nam beatae quam ipsam",
+            "icono": "img/iconos/seo.svg"
+        },
+        {   
+            "id": 8,
+            "nombre": "Social Media",
+            "informacion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia debitis incidunt nesciunt ratione recusandae facilis enim, dolorem dolor fugit aperiam accusamus a optio voluptatecumque? Eius minus velit eveniet. Esse! Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores nam, voluptates architecto recusandae repudiandae, facilis numquam eius odit unde dignissimos illo pariatur. Totam magnam aspernatur fuga nam beatae quam ipsam",
+            "icono": "img/iconos/social.svg"
+        }
+
+    ]
